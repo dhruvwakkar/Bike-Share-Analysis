@@ -4,7 +4,7 @@
 
 This project analyzes 2025 Cyclistic bike-share data to understand how annual members and casual riders use Cyclistic bikes differently.
 
-The analysis follows the Google Data Analytics Capstone case study approach, using data cleaning, exploratory analysis, summary statistics, and Power BI dashboards to identify differences in riding behavior.
+The analysis follows the case study approach, using data cleaning, exploratory analysis, summary statistics, and Power BI dashboards to identify differences in riding behavior.
 
 **Business Question:** How do annual members and casual riders use Cyclistic bikes differently?
 
