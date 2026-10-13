@@ -1,0 +1,5 @@
+﻿weekday_weekend,member_casual,ride_count,valid_duration_count,average_ride_length_minutes
+Weekday,casual,1253462,1250719,17.56
+Weekday,member,2720969,2720264,11.6
+Weekend,casual,745998,744004,21.77
+Weekend,member,832512,832211,13.09

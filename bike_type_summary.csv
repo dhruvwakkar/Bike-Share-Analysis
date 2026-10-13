@@ -1,0 +1,5 @@
+﻿rideable_type,member_casual,ride_count,valid_duration_count,average_ride_length_minutes
+classic_bike,casual,672658,667976,29.26
+classic_bike,member,1275362,1274447,13.62
+electric_bike,casual,1326802,1326747,14.04
+electric_bike,member,2278119,2278028,11.02
