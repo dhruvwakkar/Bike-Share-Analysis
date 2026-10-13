@@ -38,7 +38,7 @@ The analysis follows the Google Data Analytics Capstone case study approach, usi
 
 This page presents the overall ride volume, annual member and casual rider comparisons, monthly ride trends, bike-type preferences, and average ride duration.
 
-![Cyclistic Rider Usage Overview](images/cyclistic_2025_powerbi_dashboard_report_1.jpeg)
+![Cyclistic Rider Usage Overview](cyclistic_2025_powerbi_dashboard_report_1.jpeg)
 
 ### Page 2 — Rider Behavior Patterns
 
