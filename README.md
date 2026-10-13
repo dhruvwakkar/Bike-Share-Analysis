@@ -44,7 +44,7 @@ This page presents the overall ride volume, annual member and casual rider compa
 
 This page compares riding behavior across days of the week, weekday versus weekend usage, and average ride duration by rider type.
 
-![Cyclistic Rider Behavior Patterns](images/cyclistic_2025_powerbi_dashboard_report_2.jpeg)
+![Cyclistic Rider Behavior Patterns](cyclistic_2025_powerbi_dashboard_report_2.jpeg)
 
 ## Project Files
 
