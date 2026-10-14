@@ -1,4 +1,4 @@
-# Cyclistic Bike-Share Analysis 🚲
+# Bike-Share Analysis 🚲
 
 ## Project Overview
 
